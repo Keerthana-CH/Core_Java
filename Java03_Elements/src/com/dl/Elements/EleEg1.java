@@ -2,7 +2,7 @@ package com.dl.Elements;
 
 public class EleEg1 {
 	//TYPES OF VARIABLES
-	//Instance Variables/Non-static Varibales (new Object()) ; Can't be modified
+	//Instance Variables/Non-static Varibales (new Object())
 	//Static Variables /To call:Class Name
 	//Local variables (write inside the methods
 	
