@@ -13,7 +13,7 @@ public class Eg1 {
 		System.out.println(Byte.TYPE);
 		System.out.println(Integer.SIZE);
 		System.out.println(Float.TYPE);
-
-	}
+		System.out.println(Math.max(1, 2));
+;	}
 
 }

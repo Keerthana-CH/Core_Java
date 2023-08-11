@@ -1,0 +1,29 @@
+7/8/23 THIS KEYWORD AND SUPER KEYWORD
+THIS KEYWORD
+this keyword always refers to the current class variables
+Note:
+if variables are same if we are using this keyword we get user defined values
+if variables are same if we are not using this keyword we get default values
+if variables are different and constructor parameters are different we  get user defined values
+
+this keyword always refers to the current class instance method
+this  keyword always refers to the current class constructor
+Diff b/w this keyword and this()
+
+
+
+
+
+
+SUPER KEYWORD
+super keyword always refers to the parent class
+variable
+method
+constructor
+
+FINAL KEYWORD
+
+If a variable declared as final we cannot re assign it
+if a method declared as final we cannot override it
+if a class declared as final we cannot extend it
+(edited)
