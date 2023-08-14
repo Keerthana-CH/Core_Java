@@ -1,0 +1,20 @@
+Abstraction
+What is Abstraction
+Diff b/w Abstraction and abstract keyword
+Note: 1 (Methods)
+we can declare abstract class by using abstract keyword
+In abstract class we can both abstract methods and non abstract methods
+In abstract class  abstract method don’t have  any body
+In abstract class only static method is executed, but we cannot create instance of instance method and need to implement in child class
+The abstract by default it will be public
+Note: 2 (Blocks)
+In abstract class we can create instance block and static block but only static block s executed for instance we  need child class
+Notes: 3 (Variables)
+In abstract class we can implement local variables and static variables
+We cannot implement instance v directly but we need child class (or a extend class)
+
+
+Abstraction
+Note: 4 In abstract we can declare constructor but we cannot instantiate
+Note: 5 If we dont want to implement all the abstract methods we declare next class abstract class
+Note: 6 Any normal can extend by An Abstract Class
